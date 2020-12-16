@@ -1,5 +1,4 @@
 # CoffeeShop
-
 CoffeeShop Android App with Firebase
 
 Not: Güvenlik için Firebase dosyası silinmiştir. 
