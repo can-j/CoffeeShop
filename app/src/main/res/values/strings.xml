@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoffeeShopApp</string>
+    <string name="bilgilendirme">Kahve fotoğraflarınızı paylaşarak Sadakat Puanı kazanabilirsiniz.\n10 Sadakat Puanına ulaştığınızda 1 kahveniz bizden :)</string>
+</resources>
