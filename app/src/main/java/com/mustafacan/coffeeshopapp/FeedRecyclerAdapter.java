@@ -31,7 +31,7 @@ public class FeedRecyclerAdapter extends RecyclerView.Adapter<FeedRecyclerAdapte
 
         LayoutInflater layoutInflater = LayoutInflater.from(parent.getContext());
         View view = layoutInflater.inflate(R.layout.recycler_row, parent, false);
-
+        System.out.println("test test test");
         return new PostHolder(view);
     }
 
