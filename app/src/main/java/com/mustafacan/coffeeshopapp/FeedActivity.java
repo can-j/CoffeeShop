@@ -38,7 +38,7 @@ public class FeedActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater menuInflater = getMenuInflater();
         menuInflater.inflate(R.menu.coffee_options_menu, menu);
-
+        System.out.println("success");
         return super.onCreateOptionsMenu(menu);
     }
 
